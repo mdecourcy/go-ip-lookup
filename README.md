@@ -1,8 +1,10 @@
 # ip lookup
 
-Quick tool I wrote up for IP lookups using the IP2Loc DB. To use, download the 'IP2LOCATION-LITE-DB9.BIN' from their site, to /data/db/. 
+Quick tool I wrote up for IP lookups using the IP2Loc DB.
 
 # To use
+
+Download the 'IP2LOCATION-LITE-DB9.BIN' from their site, to /data/db/. 
 
 You can access the IP lookup by navigating to 
 
