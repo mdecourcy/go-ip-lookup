@@ -1,0 +1,5 @@
+/data/db/*
+/data/output/*
+./go.sum
+./go.mod
+./ip_lookup
